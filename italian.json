@@ -1,0 +1,1913 @@
+{ "header":{
+	
+		"language": "Italian",
+		"url_base": "https://d7mj4aqfscim2.cloudfront.net/tts/it/carla/sentence/"
+	},
+  "translations":[
+	{
+		"english": "He drinks",
+		"italian": "Lui beve",
+		"audio": "eacc3e1385e058e0ec487df624a5d4f0"
+	},
+	{
+		"english": "No, you are cooks",
+		"italian": "No, voi siete cuochi",
+		"audio": "272730c34a26fe3888b2e3b48af874d9"
+	},
+	{
+		"english": "The woman reads to the boy",
+		"italian": "La donna legge al ragazzo",
+		"audio": "32a7828a4ba633a98c8567ae102731c7"
+	},
+	{
+		"english": "The girl writes to the boy",
+		"italian": "La ragazza scrive al ragazzo",
+		"audio": "beb5a42b92c61380267ebca87af094c8"
+	},
+	{
+		"english": "You are girls",
+		"italian": "Voi siete ragazze",
+		"audio": "1e0a252669f0ace6ce296ca3f4d74460"
+	},
+	{
+		"english": "I drink",
+		"italian": "Io Bevo",
+		"audio": "7ee5638fa98bf74fff0a5696a182521e"
+	},
+	{
+		"english": "An apple",
+		"italian": "Una mela",
+		"audio": "27ae0e2b35b566608ce79ee29f8e5ada"
+	},
+	{
+		"english": "You write",
+		"italian": "Tu scrivi",
+		"audio": "85497feb8868f80f8668fced2e1bf99a"
+	},
+	{
+		"english": "You read",
+		"italian": "Leggi",
+		"audio": "d407b872dcb230b769d3cee8c3c3ae5a"
+	},
+	{
+		"english": "The grapes",
+		"italian": "L'uva",
+		"audio": "ab34b36e973417e3589120afb9c6a96a"
+	},
+	{
+		"english": "Good morning",
+		"italian": "Buongiorno",
+		"audio": "a29916bf11b4e8311152787c22ede7c9"
+	},
+	{
+		"english": "You're welcome",
+		"italian": "Prego",
+		"audio": "46dd7cefcd62550ed04fa6e4dfa7171d"
+	},
+	{
+		"english": "The beverage",
+		"italian": "La bevanda",
+		"audio": "4f089cd937c23d29feb3df7d38210637"
+	},
+	{
+		"english": "I eat the dinner",
+		"italian": "Io mangio la cena",
+		"audio": "9fd37320efbbc24cabd7c8b3f4d31b90"
+	},
+	{
+		"english": "The woman has a fork",
+		"italian": "La donna ha una forchetta",
+		"audio": "598cfa7a1fc9dd6df223992876e163ed"
+	},
+	{
+		"english": "Hello",
+		"italian": "Ciao",
+		"audio": "a412b180dd00915bea6c69a1c67cfd78"
+	},
+	{
+		"english": "An egg",
+		"italian": "Un uovo",
+		"audio": "a91bd5f6a9f026ddfc693e322dbfbad8"
+	},
+	{
+		"english": "The beverage",
+		"italian": "La bevanda",
+		"audio": "4f089cd937c23d29feb3df7d38210637"
+	},
+	{
+		"english": "You're welcome, bye",
+		"italian": "Prego, ciao",
+		"audio": "25238a1b586a7d6736ff9ad5664bc67e"
+	},
+	{
+		"english": "Beer is a beverage",
+		"italian": "La birra � una bevanda",
+		"audio": "bc29444e04fe4520febe1db655e6035d"
+	},
+	{
+		"english": "He eats the dinner",
+		"italian": "Lui mangia la cena",
+		"audio": "20833da04503a534538e45e9a03cff94"
+	},
+	{
+		"english": "We write, you read",
+		"italian": "Noi scriviamo, voi scrivete",
+		"audio": "61920fefe759288980e3ebc1293b3bd8"
+	},
+	{
+		"english": "Love is blind",
+		"italian": "L'amore � cieco.",
+		"audio": "aeb998a0a2465ae9ea9d3cd8b56a74e7"
+	},
+	{
+		"english": "Who does not work does not eat",
+		"italian": "Chi non lavora non mangia",
+		"audio": "920066c16a5a3f1d925645e49111315e"
+	},
+	{
+		"english": "Don't cry over spilt milk",
+		"italian": "Non piangere sul latte versato",
+		"audio": "c7db34bb552d209a430204fd91467aea"
+	},
+	{
+		"english": "He is a walking encyclopedia",
+		"italian": "Lui � una biblioteca ambulante",
+		"audio": "383235ec0d165da55fa70aa1139a82ad"
+	},
+	{
+		"english": "I have time to spare",
+		"italian": "Ho tempo da vendere",
+		"audio": "0c296b2cffa98f843c89775f69c730e9"
+	},
+	{
+		"english": "Life is short but art endures",
+		"italian": "La vita � breve e l'arte � lunga",
+		"audio": "e2ce9fda39fbab857136bcd68b745c1b"
+	},
+	{
+		"english": "I have made an omelette",
+		"italian": "Ho fatto una frittata",
+		"audio": "cbb45f600e855722b342e24455b9595d"
+	},
+	{
+		"english": "On the butter",
+		"italian": "Nel burro",
+		"audio": "d8157a44cec1e7adc1563ebb344378fa"
+	},
+	{
+		"english": "The cake",
+		"italian": "La torta",
+		"audio": "1d73a76324f165795c3ba2623a24dff1"
+	},
+	{
+		"english": "I cute the apple",
+		"italian": "Io taglio la mela",
+		"audio": "bd46b0250b96374a563c11a3238094d0"
+	},
+	{
+		"english": "She cuts the apple",
+		"italian": "Lei taglia la mela",
+		"audio": "a648c454cad64914d997357029bbdad8"
+	},
+	{
+		"english": "He eats the candy",
+		"italian": "Lui mangia la caramella",
+		"audio": "1a3ab0c14a3b39d741ac2d8c3a3e1677"
+	},
+	{
+		"english": "The boy cooks the food",
+		"italian": "Il ragazzo cucina il cibo",
+		"audio": "df9615c2196e92fbe1981c08da8b7c2e"
+	},
+	{
+		"english": "I eat the fried cheese",
+		"italian": "Io mangio il formaggio fritto",
+		"audio": "bdee09542a42c10f06aacce5171d1f6b"
+	},
+	{
+		"english": "The chocolate cream boils",
+		"italian": "La crema al cioccolato bolle",
+		"audio": "c298b6dd981417add9e9bc991b5fc7ee"
+	},
+	{
+		"english": "I cook the chicken",
+		"italian": "Io cucino il pollo",
+		"audio": "59f92409dbe4b8f3701b1fa767a8f62f"
+	},
+	{
+		"english": "I cannot wait",
+		"italian": "Non vedo l'ora",
+		"audio": "d3e9500de23eb0009af109c18e42f11c"
+	},
+	{
+		"english": "It is always the same old thing",
+		"italian": "� sempre la solita zuppa",
+		"audio": "5be1c6ef88961d439a2b37a405fa94b9"
+	},
+	{
+		"english": "Thank goodness",
+		"italian": "Meno male",
+		"audio": "e5c50ba1261c444f5c6e149c2990d452"
+	},
+	{
+		"english": "You're like a fish out of water",
+		"italian": "Sei come un pesce fuori dall'acqua",
+		"audio": "ccce4469f2c3542ceb0845b0ab653f6f"
+	},
+	{
+		"english": "As rare as hens' teeth",
+		"italian": "Raro come le mosche bianche",
+		"audio": "70010ae0a5d584a2214da80fc0f63f7e"
+	},
+	{
+		"english": "You are stubborn as a mule",
+		"italian": "Sei duro come un mulo",
+		"audio": "f08c0e54f091ae460e67aa9f3afe792c"
+	},
+	{
+		"english": "I have to get something off my chest",
+		"italian": "Devo sputare il rospo",
+		"audio": "a260bd38e3c31a36e2edd093ce53a844"
+	},
+	{
+		"english": "Strike the iron while it is hot",
+		"italian": "Batti il ferro finch� � caldo",
+		"audio": "ce102bce11ab8700643ccdb32bad8277"
+	},
+	{
+		"english": "Every man is a master in his own home",
+		"italian": "A casa sua ognuno � re",
+		"audio": "1c267584dd0deb1cd06e5cf38d92c8be"
+	},
+	{
+		"english": "The mouse eats the sugar",
+		"italian": "Il topo mangia lo zucchero",
+		"audio": "e78f776c780ba3d036396b9c03fada78"
+	},
+	{
+		"english": "The monkey",
+		"italian": "La scimmia",
+		"audio": "ad3f6a65aa44fb45308c2bc061e7f25e"
+	},
+	{
+		"english": "The cat is an animal",
+		"italian": "Il gato � un animale",
+		"audio": "d02f9492acef126015147656464d2f4a"
+	},
+	{
+		"english": "The monkey eats a banana",
+		"italian": "Una scimmia mangia una banana",
+		"audio": "d9fdc3bc879b221e5bcca77c7888afb4"
+	},
+	{
+		"english": "I have a horse",
+		"italian": "Io ho un cavallo",
+		"audio": "d4c76dacd6b59f50b756d1941da15185"
+	},
+	{
+		"english": "The girl has a mouse",
+		"italian": "La ragazza ha un topo",
+		"audio": "8a9be15210e8111a8c957b981bc959e5"
+	},
+	{
+		"english": "The monkey reads a book",
+		"italian": "La scimmia legge un libro",
+		"audio": "ac6739ca247e7b9fb50c6cf70d7410ad"
+	},
+	{
+		"english": "Is it a bird",
+		"italian": "� un uccello",
+		"audio": "d0673c4bfd894c1e72fd473aaa2334c4"
+	},
+	{
+		"english": "The dog drinks",
+		"italian": "Il cane beve",
+		"audio": "e8872954db96b66543a695fe71b3c7c7"
+	},
+	{
+		"english": "The girl has a dolphin",
+		"italian": "La ragazza ha un delfino",
+		"audio": "6f3076f6c074a7335333df2cf87cc03f"
+	},
+	{
+		"english": "I have a butterfly",
+		"italian": "Io ho una farfalla",
+		"audio": "ffffcadf11ea51222433acca3814b51e"
+	},
+	{
+		"english": "The bear eats a mouse",
+		"italian": "L'orso mangia il topo",
+		"audio": "db0f22feffd38b59152a154242f2a1a5"
+	},
+	{
+		"english": "The cow drinks",
+		"italian": "La mucca beve",
+		"audio": "1ce00a49418469c4ba6d4c42450a7341"
+	},
+	{
+		"english": "I am a butterfly",
+		"italian": "Io sono una farfalla",
+		"audio": "4123caeccec10b2577d805da7d293ff2"
+	},
+	{
+		"english": "The girl has a lion",
+		"italian": "La ragazza ha un leone",
+		"audio": "545861949c6e07b9f81098f4bba86d45"
+	},
+	{
+		"english": "The cook cooks a snake",
+		"italian": "Il cuoco cucina un serpente",
+		"audio": "2cb4afaaf350485278b32a95c9cf24e5"
+	},
+	{
+		"english": "The spider is an animal",
+		"italian": "Il ragno � un animale",
+		"audio": "9b97b566072f70b602c15f5290a34a0c"
+	},
+	{
+		"english": "The fly drinks water",
+		"italian": "La mosca beve acqua",
+		"audio": "cffe7d497766efc4b4e84cb68774cab0"
+	},
+	{
+		"english": "The shark eats",
+		"italian": "Lo squalo mangia",
+		"audio": "d6eb3306c79823e0c86700de0a6a1f85"
+	},
+	{
+		"english": "I am an insect",
+		"italian": "Io sono un insetto",
+		"audio": "915d371784858682cc2c482baaaa502d"
+	},
+	{
+		"english": "We eat the duck",
+		"italian": "Noi mangiamo l'anatra",
+		"audio": "9e72a37e6980e09c9aaf507189579f26"
+	},
+	{
+		"english": "The spider eats bread",
+		"italian": "Il ragno mangia il pane",
+		"audio": "309358b7c7fb3cb2520430734db9230b"
+	},
+	{
+		"english": "An elephant",
+		"italian": "Un elefante",
+		"audio": "f4ead1917585d52ba58d18bee76e6b91"
+	},
+	{
+		"english": "It is a tiger",
+		"italian": "� una tigre",
+		"audio": "67ad4ae0eb6fc7f7112a5df95576f58c"
+	},
+	{
+		"english": "A whale",
+		"italian": "Una balena",
+		"audio": "183e7d90c3708fffda0cc95b1aad97af"
+	},
+	{
+		"english": "The penguin eats fruit",
+		"italian": "Il pinguino mangia frutta",
+		"audio": "8ddb7ecbc148f66e54406ac4da08ab3d"
+	},
+	{
+		"english": "The monkey is in the zoo",
+		"italian": "La scimmia � nello zoo",
+		"audio": "f0e2567f0d8f116710ae29c6ae5dfe82"
+	},
+	{
+		"english": "It is a wolf",
+		"italian": "� un lupo",
+		"audio": "9e804e364bb0275dfadc2e7da740d7ff"
+	},
+	{
+		"english": "I am a turtle",
+		"italian": "Io sono una tartaruga",
+		"audio": "1530eff2fd7ff8907f10f534245a34d1"
+	},
+	{
+		"english": "The plates",
+		"italian": "I piatti",
+		"audio": "9309d68643fc98b85f506bc5bcfde68a"
+	},
+	{
+		"english": "He reads the newspapers",
+		"italian": "Lui legge i giornali",
+		"audio": "771cd7d04ad02931b2673664d5d37cd4"
+	},
+	{
+		"english": "Fish drink water",
+		"italian": "I pesci bevono acqua",
+		"audio": "4bc4804508a469f69094e6d90d132854"
+	},
+	{
+		"english": "The bottles",
+		"italian": "Le bottiglie",
+		"audio": "5c1a27dbbd99c15221168fed0d365d02"
+	},
+	{
+		"english": "The birds",
+		"italian": "Gli uccelli",
+		"audio": "b62935ee52af4641a3ad680cbe4c1935"
+	},
+	{
+		"english": "I do not read books",
+		"italian": "Non leggo libri",
+		"audio": "2c8f1cfa0f47b65fb4a465ead6de30ba"
+	},
+	{
+		"english": "Do the horses eat bread",
+		"italian": "I cavalli mangiano pane",
+		"audio": "83df4205581cdab50e517550d68cd1d3"
+	},
+	{
+		"english": "We read the newspapers",
+		"italian": "Noi leggiamo i giornali",
+		"audio": "d21d276f42d2372b3e4e6815129ba001"
+	},
+	{
+		"english": "The women read books",
+		"italian": "Le donne leggono libri",
+		"audio": "81afac62537d0a1863aa87bea3e68564"
+	},
+	{
+		"english": "The animals",
+		"italian": "Gli animali",
+		"audio": "6efccb30410258b92d9cc7a40be96716"
+	},
+	{
+		"english": "No, you are cooks",
+		"italian": "No, voi siete cuochi",
+		"audio": "272730c34a26fe3888b2e3b48af874d9"
+	},
+	{
+		"english": "I have the glasses, she has the bottles",
+		"italian": "Io ho i bicchieri, lei ha le bottiglie",
+		"audio": "7618570085ce2663fa669649be534f0f"
+	},
+	{
+		"english": "I eat the jam",
+		"italian": "Io mangio la marmellata",
+		"audio": "f46bd3dbe76ad1c663f3017918b9cfc4"
+	},
+	{
+		"english": "The jam is not sweet",
+		"italian": "La marmellata non � dulce",
+		"audio": "a3c4bc2b0b17878ec40fb67165552ded"
+	},
+	{
+		"english": "We eat the steak",
+		"italian": "Noi mangiamo la bistecca",
+		"audio": "33cae343ccd60f881392bb29de5274b4"
+	},
+	{
+		"english": "I drink the lemonade",
+		"italian": "Io bevo la limonata",
+		"audio": "545c96756524e1f81df04ae9f03762fc"
+	},
+	{
+		"english": "I eat the strawberry",
+		"italian": "Io mangio la fragola",
+		"audio": "ea7ceac7c7adb62891badf3793233d94"
+	},
+	{
+		"english": "She cooks a steak",
+		"italian": "Lei cucina una bistecca",
+		"audio": "bf5703d19533956d733fd3083371d12f"
+	},
+	{
+		"english": "The cake is sweet",
+		"italian": "La torta � dolce",
+		"audio": "cc754f8f45fe822d401d9a8b23820706"
+	},
+	{
+		"english": "The man eats a lemon",
+		"italian": "L'uomo mangia un limone",
+		"audio": "99be5bd030c3488deb061a6ad8aac9f9"
+	},
+	{
+		"english": "The men drink the lemonade",
+		"italian": "Gli uomini bevono la limonata",
+		"audio": "3b2312e303074e8ba80337eb1851f7f5"
+	},
+	{
+		"english": "She eats the orange",
+		"italian": "Lei mangia l'arancia",
+		"audio": "9a230c4aad7da8520786819caa0658f8"
+	},
+	{
+		"english": "The cook has a grill",
+		"italian": "Il cuoco ha una griglia",
+		"audio": "0b901f5a0c5e6ebe956d9e5361614288"
+	},
+	{
+		"english": "I am hungry",
+		"italian": "Io ho fame",
+		"audio": "f5c2438a3d4d2ec4a87870d1f874e60a"
+	},
+	{
+		"english": "I do not eat ice",
+		"italian": "Io non mangio il ghiaccio",
+		"audio": "9c93facd4bf0328e01435d0bd728cf50"
+	},
+	{
+		"english": "The taste is sweet",
+		"italian": "Il gusto � dolce",
+		"audio": "7442545ca0344effbe9057fffa607bd9"
+	},
+	{
+		"english": "We drink the tea",
+		"italian": "Noi beviamo il t�",
+		"audio": "307f49dafdae57341c9fc31ce23379ad"
+	},
+	{
+		"english": "We drink juice",
+		"italian": "Noi beviamo il succo",
+		"audio": "79c612b20273f66106493be55dabede8"
+	},
+	{
+		"english": "The ingredient is the jam",
+		"italian": "L'ingrediente � la marmellata",
+		"audio": "5ff0e3f62bdcdabee7cdaf686aa111b8"
+	},
+	{
+		"english": "It is not acid",
+		"italian": "Non � acido",
+		"audio": "f81df2913377efd89a6285d1c007050e"
+	},
+	{
+		"english": "They do not eat meat",
+		"italian": "Loro non mangiano carne",
+		"audio": "483b7137fe3c34d8cc329ac854f14a19"
+	},
+	{
+		"english": "The kitchen has a cook",
+		"italian": "La cucina ha un cuoco",
+		"audio": "92d28c5bc8af876c0404dcd7d10f3c7d"
+	},
+	{
+		"english": "I eat lunch",
+		"italian": "Io mangio il pranzo",
+		"audio": "5b186268c6d0e0cd5e96990cef8450f2"
+	},
+	{
+		"english": "He has a knife",
+		"italian": "Lui ha un coltello",
+		"audio": "c7eaa65acb262d4624b2d99f1f43564d"
+	},
+	{
+		"english": "I do not have the lunch",
+		"italian": "Non ho il pranzo",
+		"audio": "0f4e1b1d2100e3ca903654591957e685"
+	},
+	{
+		"english": "I cook meat",
+		"italian": "Io cucino la carne",
+		"audio": "2c12727c42f7e6381c5b8fdb0c1849b8"
+	},
+	{
+		"english": "We read the menu",
+		"italian": "Noi leggiamo il menu",
+		"audio": "7dc8b2889658aacc9e300b6bcfa2f08b"
+	},
+	{
+		"english": "The oil is in the glass",
+		"italian": "L'olio � nel bicchiere",
+		"audio": "58243d3cd7721f871b139163667d4067"
+	},
+	{
+		"english": "I do not have pepper",
+		"italian": "Io non ho pepe",
+		"audio": "ea4654de1de3d8757534a3dc1453f9e0"
+	},
+	{
+		"english": "The cook cooks pork",
+		"italian": "Il cuoco cucina il maiale",
+		"audio": "399bc141e2e0ab2e565b64e33ab9c9f6"
+	},
+	{
+		"english": "I have a recipe in the book",
+		"italian": "Io ho una ricetta nel libro",
+		"audio": "97914df97935286526222bba60c8b136"
+	},
+	{
+		"english": "I eat the beef, he eats the pork",
+		"italian": "Io mangio il manzo, lui mangia il maiale",
+		"audio": "cbeaf2c159e051119647d1d5c4796c05"
+	},
+	{
+		"english": "I eat an onion",
+		"italian": "Io mangio una cipolla",
+		"audio": "7d3025c139ed38ba526114da8c2514c0"
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	},
+	{
+		"english": "",
+		"italian": "",
+		"audio": ""
+	}
+  ]
+}
