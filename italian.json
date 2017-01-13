@@ -1,8 +1,4 @@
-{ "header":{
-	
-		"language": "Italian",
-		"url_base": "https://d7mj4aqfscim2.cloudfront.net/tts/it/carla/sentence/"
-	},
+{ 
   "translations":[
 	{
 		"english": "He drinks",
@@ -101,7 +97,7 @@
 	},
 	{
 		"english": "Beer is a beverage",
-		"italian": "La birra ï¿½ una bevanda",
+		"italian": "La birra è una bevanda",
 		"audio": "bc29444e04fe4520febe1db655e6035d"
 	},
 	{
@@ -116,7 +112,7 @@
 	},
 	{
 		"english": "Love is blind",
-		"italian": "L'amore ï¿½ cieco.",
+		"italian": "L'amore è cieco.",
 		"audio": "aeb998a0a2465ae9ea9d3cd8b56a74e7"
 	},
 	{
@@ -131,7 +127,7 @@
 	},
 	{
 		"english": "He is a walking encyclopedia",
-		"italian": "Lui ï¿½ una biblioteca ambulante",
+		"italian": "Lui è una biblioteca ambulante",
 		"audio": "383235ec0d165da55fa70aa1139a82ad"
 	},
 	{
@@ -141,7 +137,7 @@
 	},
 	{
 		"english": "Life is short but art endures",
-		"italian": "La vita ï¿½ breve e l'arte ï¿½ lunga",
+		"italian": "La vita è breve e l'arte è lunga",
 		"audio": "e2ce9fda39fbab857136bcd68b745c1b"
 	},
 	{
@@ -201,7 +197,7 @@
 	},
 	{
 		"english": "It is always the same old thing",
-		"italian": "ï¿½ sempre la solita zuppa",
+		"italian": "È sempre la solita zuppa",
 		"audio": "5be1c6ef88961d439a2b37a405fa94b9"
 	},
 	{
@@ -231,12 +227,12 @@
 	},
 	{
 		"english": "Strike the iron while it is hot",
-		"italian": "Batti il ferro finchï¿½ ï¿½ caldo",
+		"italian": "Batti il ferro finché è caldo",
 		"audio": "ce102bce11ab8700643ccdb32bad8277"
 	},
 	{
 		"english": "Every man is a master in his own home",
-		"italian": "A casa sua ognuno ï¿½ re",
+		"italian": "A casa sua ognuno è re",
 		"audio": "1c267584dd0deb1cd06e5cf38d92c8be"
 	},
 	{
@@ -251,7 +247,7 @@
 	},
 	{
 		"english": "The cat is an animal",
-		"italian": "Il gato ï¿½ un animale",
+		"italian": "Il gato è un animale",
 		"audio": "d02f9492acef126015147656464d2f4a"
 	},
 	{
@@ -276,7 +272,7 @@
 	},
 	{
 		"english": "Is it a bird",
-		"italian": "ï¿½ un uccello",
+		"italian": "È un uccello",
 		"audio": "d0673c4bfd894c1e72fd473aaa2334c4"
 	},
 	{
@@ -321,7 +317,7 @@
 	},
 	{
 		"english": "The spider is an animal",
-		"italian": "Il ragno ï¿½ un animale",
+		"italian": "Il ragno è un animale",
 		"audio": "9b97b566072f70b602c15f5290a34a0c"
 	},
 	{
@@ -356,7 +352,7 @@
 	},
 	{
 		"english": "It is a tiger",
-		"italian": "ï¿½ una tigre",
+		"italian": "È una tigre",
 		"audio": "67ad4ae0eb6fc7f7112a5df95576f58c"
 	},
 	{
@@ -371,12 +367,12 @@
 	},
 	{
 		"english": "The monkey is in the zoo",
-		"italian": "La scimmia ï¿½ nello zoo",
+		"italian": "La scimmia è nello zoo",
 		"audio": "f0e2567f0d8f116710ae29c6ae5dfe82"
 	},
 	{
 		"english": "It is a wolf",
-		"italian": "ï¿½ un lupo",
+		"italian": "È un lupo",
 		"audio": "9e804e364bb0275dfadc2e7da740d7ff"
 	},
 	{
@@ -451,7 +447,7 @@
 	},
 	{
 		"english": "The jam is not sweet",
-		"italian": "La marmellata non ï¿½ dulce",
+		"italian": "La marmellata non è dulce",
 		"audio": "a3c4bc2b0b17878ec40fb67165552ded"
 	},
 	{
@@ -476,7 +472,7 @@
 	},
 	{
 		"english": "The cake is sweet",
-		"italian": "La torta ï¿½ dolce",
+		"italian": "La torta è dolce",
 		"audio": "cc754f8f45fe822d401d9a8b23820706"
 	},
 	{
@@ -511,12 +507,12 @@
 	},
 	{
 		"english": "The taste is sweet",
-		"italian": "Il gusto ï¿½ dolce",
+		"italian": "Il gusto è dolce",
 		"audio": "7442545ca0344effbe9057fffa607bd9"
 	},
 	{
 		"english": "We drink the tea",
-		"italian": "Noi beviamo il tï¿½",
+		"italian": "Noi beviamo il tè",
 		"audio": "307f49dafdae57341c9fc31ce23379ad"
 	},
 	{
@@ -526,12 +522,12 @@
 	},
 	{
 		"english": "The ingredient is the jam",
-		"italian": "L'ingrediente ï¿½ la marmellata",
+		"italian": "L'ingrediente è la marmellata",
 		"audio": "5ff0e3f62bdcdabee7cdaf686aa111b8"
 	},
 	{
 		"english": "It is not acid",
-		"italian": "Non ï¿½ acido",
+		"italian": "Non è acido",
 		"audio": "f81df2913377efd89a6285d1c007050e"
 	},
 	{
@@ -571,7 +567,7 @@
 	},
 	{
 		"english": "The oil is in the glass",
-		"italian": "L'olio ï¿½ nel bicchiere",
+		"italian": "L'olio è nel bicchiere",
 		"audio": "58243d3cd7721f871b139163667d4067"
 	},
 	{
